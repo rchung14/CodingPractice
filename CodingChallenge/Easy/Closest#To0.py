@@ -1,6 +1,6 @@
 # ARRAYS
 class Solution(object):
-    def findClosestNumber(self, nums):
+    def findClosestNumber(nums):
         """
         :type nums: List[int]
         :rtype: int
@@ -14,3 +14,6 @@ class Solution(object):
                     closestNum = number
         
         return closestNum
+    
+    nums = [-1,2,3,4,1,100]
+    print(findClosestNumber(nums))

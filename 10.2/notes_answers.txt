@@ -1,0 +1,48 @@
+- What was Ebbinghaus forgetting curve? What percentage was usually forgotten from 20min - 1day?
+    Ebbinghaus was a single study done that logged the percentage of people that forgot a 3-letter code after different periods of time.
+    In the first 20 minutes, around 40% of the experimental group forgot, and percentage declined 20 minutes and onward
+
+- What is the best way to combat the forgetting curve? 
+    Spaced repetition is the best way to combat the forgetting curve. By repeating/reviewing content in a timely manner, one can 
+    extend their memory of information
+
+- What 2 compontents make up the internet? 
+    The client and server 
+
+- On client side, what is the application called when it is good at opening certain types of files (.docx, .pdf, etc)
+    The browser 
+
+- How do requests travel from client to server? 
+    They travel by a literal wire (transatlantic wire) that sends signals across the world 
+    
+    - What is the significance of an ISP in terms of client requests? 
+        ISPs are very good at connecting your home to one of the wires and enables requests to be sent 
+    
+    - What 2 components make up a DNS? 
+        The address(url) and the coordinates(IP Adress). The DNS acts like a phone book where it received a url and matches the url
+        to its respective IP address 
+
+- What is the significance of HTTP? 
+    Allows the transfer of data and information between devices quickly. When the client request goes out, it must go through the ISP, DNS,
+    reach the server. The HTTP request allows a faster version of that where it can easily traverse those initial steps when the server responds. 
+
+- Difference between HTTP and HTTPS? 
+    HTTPS is secured and encrypted. Before, everyone was able to see internet traffic, passwords, devices, private information. Now it
+    only reveals basic information like location, device used, etc 
+
+- What is the golden rule for HTML, CSS, JS 
+    HTML is strictly for text editing
+    CSS is strictly for design
+    JS is strictly for interaction
+    This is for organization and consistency in a professional environment 
+
+HTML EX: <p class="nice">Hello World</p>
+        <p></p> -- open/closing tags
+        class="nice" -- attribute and its value
+        Hello World -- enclosed text 
+
+- What does <p>, <h1>, <ul>, <li>
+    <p> = paragraph
+    <h1> = heading1
+    <ul> = unordered list
+    <li> = list item 

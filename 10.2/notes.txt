@@ -1,0 +1,44 @@
+Class 1, 10/2/24
+
+Active Recall: 
+- After every block of text/page recall what that text was talking about. If not possible, read over again
+- When taking notes, always ask questions that will help quiz
+
+Notes: 
+- What was Ebbinghaus forgetting curve? What percentage was usually forgotten from 20min - 1day?
+    
+
+- What is the best way to combat the forgetting curve? 
+    
+
+- What 2 compontents make up the internet? 
+    
+
+- On client side, what is the application called when it is good at opening certain types of files (.docx, .pdf, etc)
+     
+
+- How do requests travel from client to server? 
+    
+    
+    - What is the significance of an ISP in terms of client requests? 
+        
+    
+    - What 2 components make up a DNS? 
+        
+
+- What is the significance of HTTP? 
+     
+
+- Difference between HTTP and HTTPS? 
+    
+
+- What is the golden rule for HTML, CSS, JS 
+     
+
+HTML EX: <p class="nice">Hello World</p>
+        <p></p> -- open/closing tags
+        class="nice" -- attribute and its value
+        Hello World -- enclosed text 
+
+- What does <p>, <h1>, <ul>, <li>
+    

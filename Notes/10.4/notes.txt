@@ -1,0 +1,28 @@
+Class 2, 10/4/24
+
+Notes: 
+- href = hyper text reference 
+- Why should you use the right HTML tags? 
+    Better for accessibility users, Google page rank
+
+- What does h1 header signify/what should occupy the h1 header
+    h1 should always be the most important content. Typically just 1 
+
+-  What should <span> be used for? 
+    Short spans of text 
+
+- <br> <hr> <em> <strong> all do what? Should it be used in HTML? 
+    break (whitespace), horizontal line, italicize text, bold text 
+    br amd hr should not be since it is technically breaking the separation of concerns 
+    yes/no em and strong can appeal to accessibilit users since it would help people like visually impaired
+
+- Containing elements 
+    <div> - 
+    <section> - group like-content together
+    <article> - content to be shared, like newspaper, blogpost
+    <aside> - help with sidebars originally, now for extra content -> ads 
+    <header> - group content at beginning
+    <footer> - group content at end 
+
+
+

@@ -1,0 +1,55 @@
+10/8/24, Class 3
+
+Notes: 
+- h1 -- h6 --> also level of importance
+- Tag refresh: 
+    <em> 
+    <strong> 
+    <span> 
+    <pre> -- NOT USED 
+    <hr> <br> -- SEPARATION OF CONCERN
+    <p> 
+    <ol>
+    <ul> 
+    <li> 
+    <section> -- group lots of content together 
+    <div> 
+    <article> -- content to be shared, newspaper articles, blogs 
+    <aside> -- ads or sidebars 
+    <header> 
+    <footer> 
+    THINGS WE DONT USE 
+    <blink>, <marquee>, <b>, <i> -- alot of these are CSS 
+    <a>
+- How to structure HTML: 
+    <!DOCTYPE html> <!-- or ! shortcut --> 
+    <html> 
+        <head> 
+            <!-- Stuff the browser needs --> 
+        </head> 
+        <body> 
+            <!-- Everything the user sees --> 
+            <h1>Hello World!</h1> 
+        </body> 
+    </html> 
+
+- New tags: 
+    <nav> -- content to help user move around website
+    <form> -- when you want to get information/data from user 
+        different inputs: text, passowrd, tel, email, button -- MDN has full list of what type of inputs 
+
+- Progressive Enhancement: 
+    Most important to website building is the content/HTML 
+    Next is presentation 
+    Finally is client-side scripting 
+    --> like a peanut m&m, html is the CONCERN
+    
+    - CNN regular site has 1000 requests over couple seconds -- not everyone can use 
+    - CNN made CNN Lite which got rid of the presentation and client-side scripting to keep all the CONTENT 
+
+
+
+
+
+
+
